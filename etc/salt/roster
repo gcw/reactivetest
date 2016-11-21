@@ -1,0 +1,4 @@
+web1:
+  host: 104.131.26.29
+  user: freebsd
+  sudo: True
